@@ -19,6 +19,7 @@ Then the signal iterates inside the loop where main formula is applied with coef
 - Due to usage of Numpy and limitations of class "list" flaoting point is faster. However, in hardware and low level languages Fixed point would be faster.
 
 **One of the outputs (example)**: 
+
 <img src="example.png" alt="Alt text" width="600" height="200" align="center">
 
 **Low-pass filter:**
